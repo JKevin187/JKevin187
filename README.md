@@ -6,6 +6,7 @@ Software Engineer Student at ETS
  ### Known languange:
 - Java (Visual Studio Code/ InteliJ/ Eclipse)
 - Groovy (Katalon)
+- SQL (Oracle)
 - TypeScript (Visual Studio Code)
 - C (Microsfoft Visual Studio)
 - Python (PyCharm)
