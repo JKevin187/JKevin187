@@ -9,7 +9,7 @@ Software Engineer Student at ETS
 - Groovy (Katalon)
 - SQL (Oracle)
 - TypeScript (Visual Studio Code)
-- C (Microsfoft Visual Studio)
+- C (Visual Studio)
 - Python (PyCharm)
 - JavaScript (Visual Studio Code)
 
