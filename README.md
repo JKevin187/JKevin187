@@ -5,6 +5,7 @@ Software Engineer Student at ETS
  ---
  ### Known languange:
 - Java (Visual Studio Code/ InteliJ/ Eclipse)
+- C++ (Visual Studio 2019)
 - Groovy (Katalon)
 - SQL (Oracle)
 - TypeScript (Visual Studio Code)
@@ -16,6 +17,7 @@ Software Engineer Student at ETS
 - PlantUML
 - Markdown
 - GitHub/ GitLab
+- Cmake tests
 - Apache Maven
 
 ---
